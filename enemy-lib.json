@@ -2692,7 +2692,7 @@
     {
       "item_id": "ene_82",
       "effects": {
-        "enemy_level": 20,
+        "enemy_level": 10,
         "enemy_id": "ene_82",
         "enemy_name": "Shikigami Yanki",
         "enemy_hp": 12760,
